@@ -1,3 +1,5 @@
 Luke 
 Dart
 Obi Wan
+Padme
+R2D2
