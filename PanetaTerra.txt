@@ -1,1 +1,2 @@
-Continetes
+Continentes:
+America, Asia, Africa, Europa, Oceania
