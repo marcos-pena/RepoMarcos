@@ -1,5 +1,10 @@
 Continentes:
 America, Asia, Africa, Europa, Oceania
+<<<<<<< HEAD
 Países:
 Brasil, Argentina
 Holanda, Italia
+=======
+Paises:
+Brasil, Argentina
+>>>>>>> 7d3f4dd (Coringa e alguma mudanca no Planeta Terra)
